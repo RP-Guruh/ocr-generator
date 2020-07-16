@@ -1,0 +1,7 @@
+OCR Generator ⁣
+⁣
+Optical character recognition (OCR) adalah proses konversi gambar huruf menjadi karakter ASCIl yang dikenali oleh komputer. Gambar huruf yang dimaksud dapat berupa hasil scan dokumen, hasil print-screen halaman web, hasil foto, dan lain-lain (Mohammad, Anarase, Shingote, & Ghanwat, 2014)⁣
+⁣
+Source code, check my repo :⁣
+⁣
+https://github.com/RP-Guruh/ocr-generator
